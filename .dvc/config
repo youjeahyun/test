@@ -1,0 +1,4 @@
+[core]
+    remote = imgstorage
+['remote "imgstorage"']
+    url = gdrive://148UCzHJWAu4_FaswNGzkb9AF2CO66DCp
